@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+node_modules/
+.env
+docker-data/
+.DS_Store
