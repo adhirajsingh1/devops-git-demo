@@ -45,4 +45,8 @@ This project demonstrates Git best practices for a DevOps workflow, including br
 - **dev** → Integration branch for tested features.
 - **feature/** → Short-lived branches for individual features.
 
----
+## Git Usage Proof
+
+Below is a screenshot showing the Git commands, branches, commits, merges, and tags used in this project.
+
+![Git Proof](git.png)
